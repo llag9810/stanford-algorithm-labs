@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Karatsuba_multiplication.dir/main.cpp.o  -o Karatsuba_multiplication 

@@ -1,0 +1,3 @@
+/home/yifan/ClionProjects/Counting Inversions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yifan/ClionProjects/Counting Inversions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yifan/ClionProjects/Counting Inversions/cmake-build-debug/CMakeFiles/Counting_Inversions.dir
